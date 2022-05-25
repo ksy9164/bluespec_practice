@@ -1,6 +1,6 @@
 # Bluespec Practice for ARDA Group
 
-- This project requires [bluespecpcie](https://github.com/sangwoojun/bluespecpcie) and [bluelib](https://github.com/sangwoojun/bluelib).
+- This project requires [bluespecpcie](https://github.com/sangwoojun/bluespecpcie).
 - Each example does the same job (mattress addition) in different ways (Except HelloWorld)
 -----------------------------------------  
 ## Compile and Run    
