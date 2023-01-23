@@ -2,7 +2,7 @@
 
 - This project requires [bluespecpcie](https://github.com/sangwoojun/bluespecpcie).
 - Each example does the same job (mattress addition) in different ways (Except HelloWorld)
-- Please place this directory under [/bluespecpcie/examples](https://github.com/sangwoojun/bluespecpcie/tree/master/examples) for compilation
+- Please place this directory under [/bluespecpcie/](https://github.com/sangwoojun/bluespecpcie) for compilation
 -----------------------------------------  
 ## Compile and Run    
 ````sh    
